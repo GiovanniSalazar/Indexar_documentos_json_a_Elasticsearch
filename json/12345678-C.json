@@ -1,0 +1,11 @@
+{
+  "doc": "12345678-C",
+  "datos_personales": {
+    "nombres": "luz",
+    "apellidos": "tejeda",
+    "edad": 31,
+    "dni": "12345678-C",
+    "pais": "Perú",
+    "ciudad": "Lima"
+  }
+}

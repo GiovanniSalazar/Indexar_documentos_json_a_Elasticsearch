@@ -1,0 +1,11 @@
+{
+  "doc": "85127495-B",
+  "datos_personales": {
+    "nombres": "marco",
+    "apellidos": "ramirez",
+    "edad": 32,
+    "dni": "85127495-B",
+    "pais": "Perú",
+    "ciudad": "Lima"
+  }
+}

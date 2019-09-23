@@ -1,0 +1,11 @@
+{
+  "doc": "47846571-A",
+  "datos_personales": {
+    "nombres": "Pepe",
+    "apellidos": "Salas",
+    "edad": 22,
+    "dni": "47846571-A",
+    "pais": "Perú",
+    "ciudad": "Lima"
+  }
+}
