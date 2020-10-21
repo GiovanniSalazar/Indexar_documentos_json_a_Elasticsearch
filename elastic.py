@@ -11,7 +11,7 @@ class es():
         self.index = index
         self.type = type
         # Cambiar por la IP configurada en ES
-        self.es = Elasticsearch(['192.168.0.12'],port=9200)
+        self.es = Elasticsearch(['XXX.XXX.X.XX'],port=9200)
         # Usamos uuid para generar un random id
         self.id = uuid.uuid1()
 
